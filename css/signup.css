@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(251, 5, 5);
+    align-content: center;
+}
+.container{
+    padding-top: 30px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.forms{
+    background-color: white;
+    padding:25px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: black;
+}

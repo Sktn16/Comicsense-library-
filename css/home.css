@@ -1,0 +1,71 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: rgb(243, 240, 240);
+}
+.halfheight{
+    height: 70vh;
+    object-fit:fill;
+}
+.custom-navbar {
+    background-color: #fafafa;
+    color: rgb(7, 7, 7);
+}
+.aboutus{
+    background-color: rgb(251, 5, 5);
+    margin: 20px;
+    padding: 25px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.337);
+    border-radius: 15px;
+}
+.aboutus h2{
+    color: white;
+    text-align: center;
+}
+.aboutus p{
+    text-align: justify;
+    color: white;
+
+}
+.spotlight{
+    background-color: rgb(243, 239, 239);
+    margin: 20px;
+    padding: 25px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.38);
+    border-radius: 15px;
+}
+.spotlight h2{
+    text-align: center;
+}
+.colu img{
+    border-radius: 10px;
+}
+footer {
+    background-color: #343a40; /* Bootstrap dark background */
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    
+    
+}
+
+footer h5 {
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+footer a {
+    text-decoration: none;
+    color: inherit;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+footer .text-center {
+    border-top: 1px solid #495057;
+    padding-top: 15px;
+    margin-top: 20px;
+}

@@ -1,0 +1,78 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.price {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1rem;
+    margin-bottom: 15px;
+}
+
+.form-control {
+    width: 80px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    margin-right: 10px;
+}
+
+.text-muted {
+    font-size: 0.875rem;
+}
+
+
+
+footer {
+    background-color: #343a40; /* Bootstrap dark background */
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    
+    
+}
+
+footer h5 {
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+footer a {
+    text-decoration: none;
+    color: inherit;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+footer .text-center {
+    border-top: 1px solid #495057;
+    padding-top: 15px;
+    margin-top: 20px;
+}
+.spotlight{
+    background-color: rgb(253, 2, 2);
+    margin: 20px;
+    padding: 25px;
+    box-shadow: 0 4px 8px #04040471;
+    border-radius: 15px;
+    color: white;
+}
+.spotlight h2{
+    text-align: center;
+}
+.colu img{
+    border-radius: 10px;}
+
