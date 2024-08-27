@@ -1,11 +1,10 @@
 body{
-    background-color:rgb(251, 5, 5);
+    background-color:rgb(248, 2, 2);
     align-content: center;
 }
 .container{
-    padding-top: 100px;
-    padding-left: 300px;
-    padding-right: 300px;
+    padding-top: 10%;
+    justify-content: center;
 }
 .forms{
     background-color: white;

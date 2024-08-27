@@ -3,9 +3,8 @@ body{
     align-content: center;
 }
 .container{
-    padding-top: 30px;
-    padding-left: 300px;
-    padding-right: 300px;
+    padding-top: 10%;
+    justify-content: center;
 }
 .forms{
     background-color: white;
